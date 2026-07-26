@@ -114,7 +114,7 @@ Through this project, I gained practical experience with:
 
 GitHub: https://github.com/prasoonkashyap18
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn: www.linkedin.com/in/prasoon--kashyap
 
 ---
 
