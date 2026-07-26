@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/SecurityLogAnalyzer.png" alt="CyberShield Security Log Analyzer Banner" width="100%">
+  <img src="asset/SecurityLogAnalyzer.png" alt="CyberShield Security Log Analyzer Banner" width="100%">
 </p>
 
 
