@@ -1,1 +1,35 @@
+# Compiled Java class files
+*.class
 
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Java extension files
+.settings/
+.project
+.classpath
+
+# Build directories
+bin/
+out/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+
+# NetBeans
+nbproject/private/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
